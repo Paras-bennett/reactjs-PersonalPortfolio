@@ -1,0 +1,79 @@
+
+/* Add your profile image here */
+.Photo{
+    background-image: url('/src/images/profile-pic.jpg');
+}
+/* Projects Photo */
+.project1{
+    background-image: url('/src/images/otl.png');
+    cursor: none;    
+}
+.project2{
+    background-image: url('/src/images/here.png');
+    cursor: none;
+}
+.project3{
+    background-image: url('/src/images/cisco.jpg');
+    cursor: none;
+}
+.project4{
+    background-image: url('/src/images/book.jpg');
+    cursor: none;
+}
+.project5{
+    background-image: url('/src/images/rexora.jpg');
+    cursor: none;
+}
+.project6{
+    background-image: url('/src/images/bu.png');
+    cursor: none;
+}
+/* Miscelaneous Activities photo */
+.misc1{
+    background-image: url('/src/images/tracker.png');
+    cursor: none;
+}
+.misc2{
+    background-image: url('/src/images/squid.jpg');
+    cursor: none;
+}
+.misc3{
+    background-image: url('/src/images/ip2.jfif');
+    cursor: none;
+}
+.misc4 {
+    background-image: url('/src/images/yt.png');
+    cursor: none;
+}
+.misc5 {
+    background-image: url('/src/images/sd.png');
+    cursor: none;
+}
+.misc6 {
+    background-image: url('/src/images/commerce.png');
+    cursor: none;
+}
+.misc7 {
+    background-image: url('/src/images/DD.jfif');
+    cursor: none;
+}
+.misc8{
+    background-image: url('/src/images/popcorn.jfif');
+    cursor: none;
+}
+.misc9 {
+    background-image: url('/src/images/hulu.jpg');
+    cursor: none;
+}
+.misc10 {
+    background-image: url('/src/images/netflix.png');
+    cursor: none;
+}
+.misc11 {
+    background-image: url('/src/images/biometric.jfif');
+    cursor: none;
+}
+.misc12{
+    background-image: url('/src/images/sih.jfif');
+    cursor: none;
+}
